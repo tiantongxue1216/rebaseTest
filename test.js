@@ -4,4 +4,5 @@ let str3 = 'everyBody'
 
 let str4 = '12333'
 
+let st5 = '89898989'
 console.log(str,str2,str3)  
