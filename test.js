@@ -12,4 +12,6 @@ let str6 = '4666'
 
 let str9 = 'heheheeheheh'
 
+let str10 = 'hiahiahiahaihaihhah'
+
 console.log(str,str2,str3)  
