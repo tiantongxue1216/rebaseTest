@@ -4,4 +4,6 @@ let str3 = 'hello everyBody'
 
 let str4 = 'rebaseTest add str4'
 
+let str5 = 'dadafd'
+
 console.log(str,str2,str3)
