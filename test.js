@@ -1,6 +1,6 @@
 let str = 'hello world 2333'
 let str2 = 'hello git'
-let str3 = ''
+let str3 = '23232323232'
 
 let str4 = '12333'
 
