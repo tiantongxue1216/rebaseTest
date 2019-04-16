@@ -1,4 +1,4 @@
-let str = 'hello world'
+let str = 'master modify'
 let str2 = 'hello git'
 let str3 = 'hello everyBody'
 
