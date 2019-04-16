@@ -11,3 +11,5 @@ let str7 = '344'
 console.log(str,str2,str3)  
 
 console.log(233)
+
+console.log(45555)
