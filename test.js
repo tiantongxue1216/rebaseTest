@@ -10,4 +10,6 @@ let str5 = '2333'
 
 let str6 = '4666'
 
+let str9 = 'heheheeheheh'
+
 console.log(str,str2,str3)  
