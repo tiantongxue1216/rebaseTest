@@ -9,6 +9,3 @@ let str6 = '122'
 
 let str7 = '344'
 console.log(str,str2,str3)  
-
-console.log(233)
-
