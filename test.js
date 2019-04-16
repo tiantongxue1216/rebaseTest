@@ -6,3 +6,8 @@ let str4 = 'rebaseTest add str4'
 
 let str7 = '888'
 console.log(str,str2,str3)
+let str5 = '2333'
+
+let str6 = '4666'
+
+console.log(str,str2,str3)  
